@@ -2,9 +2,11 @@
 using namespace std;
 int main ()
 {
-	cout<<endl<<endl;
-	cout<<"hola mundo soy gerardo";
-	cout<<endl<<endl;
+	float A,B,C;
+	cin>>A>>B;
+	C=A+B;
+	cout<<C;
+
 	return(0);
 
 }
