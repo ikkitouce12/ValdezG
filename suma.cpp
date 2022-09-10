@@ -7,7 +7,6 @@ int main ()
 	C=A+B;
         cout<<C;
 
-
 	return(0);
 
 }
